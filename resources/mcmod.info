@@ -1,0 +1,19 @@
+[
+{
+  "modid": "carystanley_fineart",
+  "name": "Fine Art",
+  "description": "Extending Minecraft with Fine Art!",
+  "version": "",
+  "credits": "Created by Cary Stanley",
+  "logoFile": "",
+  "mcversion": "",
+  "url": "http://minecraft.carystanley.com/minecraft-fineart-mod/",
+  "updateUrl": "",
+  "authors": [ "carystanley" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+         "mod_MinecraftForge"
+]
+}
+]
